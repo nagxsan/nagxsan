@@ -38,6 +38,7 @@ I want to eventually transition into the role of a technical co-founder. Let's l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
 </div>
+
 ###
 
 ### Backend
@@ -93,10 +94,6 @@ I want to eventually transition into the role of a technical co-founder. Let's l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
 </div>
-
-###
-
-
 
 ###
 
