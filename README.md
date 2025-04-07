@@ -10,6 +10,7 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 - [starkhive-backend](https://github.com/StarkHive/starkhive-backend/pulls?q=is%3Apr+author%3Anagxsan)
 - [FrieghtFlow](https://github.com/CodeGirlsInc/FrieghtFlow/pulls?q=is%3Apr+author%3Anagxsan)
 - [tradoxus-backend](https://github.com/TRADOXUS/tradoxus-backend/pulls?q=is%3Apr+author%3Anagxsan)
+- [NexaFx-backend](https://github.com/Nexacore-Org/NexaFx-backend/pulls?q=is%3Apr+author%3Anagxsan)
 
 
 ### Past Expereince and Projects:
