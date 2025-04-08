@@ -13,6 +13,7 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 - [NexaFx-backend](https://github.com/Nexacore-Org/NexaFx-backend/pulls?q=is%3Apr+author%3Anagxsan)
 - [starknet-devnet](https://github.com/0xSpaceShard/starknet-devnet/pulls?q=is%3Apr+author%3Anagxsan)
 - [Starknet-GW](https://github.com/cy-forge/Starknet-GW/pulls?q=is%3Apr+author%3Anagxsan)
+- [revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Anagxsan)
 
 
 ### Past Expereince and Projects:
