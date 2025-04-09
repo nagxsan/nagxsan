@@ -120,3 +120,5 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 </div>
 
 ###
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nagxsan)](https://git.io/streak-stats)
