@@ -15,6 +15,7 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 - [Starknet-GW](https://github.com/cy-forge/Starknet-GW/pulls?q=is%3Apr+author%3Anagxsan)
 - [revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Anagxsan)
 - [chainVerse-backend](https://github.com/Gen-x-academy/chainVerse-backend/pulls?q=is%3Apr+author%3Anagxsan)
+- [uniswap-v3-starknet](https://github.com/augustin-v/uniswap-v3-starknet/pulls?q=is%3Apr+author%3Anagxsan)
 
 
 ### Past Expereince and Projects:
