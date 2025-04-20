@@ -18,7 +18,7 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 - [uniswap-v3-starknet](https://github.com/augustin-v/uniswap-v3-starknet/pulls?q=is%3Apr+author%3Anagxsan)
 
 
-### Past Expereince and Projects:
+### Past Experience and Projects:
 - Member of Technical Staff Intern, DevRev
 - Software Development Engineer, OnFinance.ai
 - Software Development Engineer, Adaptive
