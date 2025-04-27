@@ -16,6 +16,7 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 - [revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Anagxsan)
 - [chainVerse-backend](https://github.com/Gen-x-academy/chainVerse-backend/pulls?q=is%3Apr+author%3Anagxsan)
 - [uniswap-v3-starknet](https://github.com/augustin-v/uniswap-v3-starknet/pulls?q=is%3Apr+author%3Anagxsan)
+- [Graso-smartcontract](https://github.com/DenLabs01/Graso-smartcontract/pulls?q=is%3Apr+author%3Anagxsan)
 
 
 ### Past Experience and Projects:
