@@ -23,6 +23,7 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 - [paynet](https://github.com/nutty-raccoon/paynet/pulls?q=is%3Apr+author%3Anagxsan)
 - [BotBattles](https://github.com/Shonen-Labs/BotBattles/pulls?q=is%3Apr+author%3Anagxsan)
 - [azura](https://github.com/SoarinSkySagar/azura/pulls?q=is%3Apr+author%3Anagxsan)
+- [boundless-contract](https://github.com/0xdevcollins/boundless-contract/pulls?q=is%3Apr+author%3Anagxsan)
 
 
 ### Past Experience and Projects:
