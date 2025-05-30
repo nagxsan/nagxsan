@@ -26,6 +26,7 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 - [boundless-contract](https://github.com/0xdevcollins/boundless-contract/pulls?q=is%3Apr+author%3Anagxsan)
 - [harmonia-dapp](https://github.com/Harmonia-Development/harmonia-dapp/pulls?q=is%3Apr+author%3Anagxsan)
 - [Roster-Rumble](https://github.com/Shonen-Labs/Roster-Rumble/pulls?q=is%3Apr+author%3Anagxsan)
+- [The-Velvet-Ace](https://github.com/Prometheus-A/The-Velvet-Ace/pulls?q=is%3Apr+author%3Anagxsan)
 
 
 ### Past Experience and Projects:
