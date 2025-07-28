@@ -33,7 +33,8 @@ I want to eventually transition into the role of a technical co-founder. Let's l
 - Member of Technical Staff Intern, DevRev
 - Software Development Engineer, OnFinance.ai
 - Software Development Engineer, Adaptive
-- Full Stack Developer, Sketchnote (current)
+- Full Stack Developer, Sketchnote
+- Founding Member, Stealth Startup (current)
 
 ###
 
